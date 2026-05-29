@@ -1,0 +1,3 @@
+./build/k-mer ./inputs/pi.txt $k > /dev/null  8,76s user 0,14s system 99% cpu 8,943 total
+./build/k-mer ./inputs/pi.txt $k > /dev/null  8,73s user 0,13s system 99% cpu 8,885 total
+./build/k-mer ./inputs/pi.txt $k > /dev/null  8,89s user 0,13s system 99% cpu 9,023 total
