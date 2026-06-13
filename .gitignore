@@ -2,3 +2,6 @@
 src/.idea
 .idea/
 pi.txt
+out_*.txt
+time_*.txt
+build/
